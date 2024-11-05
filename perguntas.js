@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que é célula?',
+    'A unidade básica da vida.'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'O que é fotossíntese?',
+    'Processo pelo qual as plantas convertem luz solar em energia.'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'O que são organismos autotróficos?',
+    'Organismos que produzem seu próprio alimento.'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual a função do sistema circulatório?',
+    'Transportar sangue e nutrientes pelo corpo.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que a genética estuda?',
+    'A herança dos genes.'
+)
+
+criaCartao(
+    'Biologia',
+    'Quais são os tipos de célula?',
+    'Células procarionte(sem núcleo) e células eucariontes(com núcleo)'
 )
